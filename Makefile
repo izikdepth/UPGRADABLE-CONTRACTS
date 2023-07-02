@@ -45,5 +45,5 @@ deploy:
 	@forge script script/DeployBox.s.sol:DeployBox $(NETWORK_ARGS)
 
 upgrade:
-	@forge script script/upgradeBox.s.sol:upgradeBox $(NETWORK_ARGS)
+	@forge script script/UpgradeBox.s.sol:upgradeBox $(NETWORK_ARGS)
 
