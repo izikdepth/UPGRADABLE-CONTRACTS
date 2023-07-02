@@ -16,3 +16,4 @@ This design pattern allows developers to maintain and improve their smart contra
 
 here, i've build an example of upgradable smart contract with forge, feel free to clone the repo and test it yourself. commands can be found here:
 https://book.getfoundry.sh/reference/forge/# Upgradable-smart-contracts-example
+# UPGRADABLE-CONTRACTS
